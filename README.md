@@ -1,5 +1,5 @@
 # How to code: Complex Data
-Solution to the final project prompts (incl. within submission) from course [How To Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) (University of British Columbia)
+Submission of the final project from course [How To Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) (University of British Columbia)
 
 
 Language: Racket Lisp/Scheme
